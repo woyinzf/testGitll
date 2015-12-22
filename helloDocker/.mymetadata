@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="helloDocker"
+  id="myeclipse.1450488479017"
+  context-root="/helloDocker"
+  j2ee-spec="5.0"
+  archive="helloDocker.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
